@@ -259,7 +259,7 @@ public class AntiCheatCommand implements CommandExecutor {
 		}
 		else {
 			s.sendMessage(Color.Red + "Unknown argument '/" + a + " " + g[0] + "'! Do " + Color.Italics
-					+ "/anticheat help " + Color.Red + "for more info!");
+					+ "/anticheat help " + Color.Red + "for more information!");
 		}
 		return true;
 	}
